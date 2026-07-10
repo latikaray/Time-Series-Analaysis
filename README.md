@@ -250,16 +250,12 @@ notebooks/Time_Series_Analysis.ipynb
 
 # 📸 Sample Outputs
 
-Add screenshots of important visualizations inside the **images/** folder.
-
-Example:
-
 
 ![Stock Trend](images/stock_trend.png)
 
 ![Monthly Resampling](images/monthly_resampling.png)
 
-![Autocorrelation](images/acf_plot.png)
+![Autocorrelation](images/ACF_plot.png)
 
 ![Original vs differenced high](images/differencing.png)
 
